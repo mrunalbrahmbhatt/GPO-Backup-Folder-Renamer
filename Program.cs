@@ -12,7 +12,7 @@ namespace GPOFolderRenamer
         {
             if (args.Length != 1)
             {
-                Console.WriteLine("Usage: YourProgram.exe <FolderPath> try in quotes");
+                Console.WriteLine("Usage: GPOFolderRenamer.exe <FolderPath> try in quotes");
                 return;
             }
 
